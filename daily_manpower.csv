@@ -1,4 +1,4 @@
-﻿S/No,Company,Name,PS No,Skillset,Designation,Work permit no,Assigned location,Shift,Shift Hour,Tag No,WORKPLAN
+﻿S/No,Company,Name,PS_No,Skillset,Designation,Work permit no,Assigned location,Shift,Shift Hour,Tag No,WORKPLAN
 1,Yard,"Hossain, Md Fahad",5039212,Quality Control,JL,PS2 Permit,"A1-A2,D3-D5,E9",DS,0730-1630,1,Administrative 
 2,Yard,"Mohajan, Monojit Baran",5021106,Quality Control,JL,PS2 Permit,"A1-A2,A5-A7,A10,B10",DS,0730-1630,2,"Quality Controller PS2 Liza, Submit rfi for Liza"
 3,Yard,"Khine, Myo Lwin",5033291,Fitter,JL,PS2 Permit,"A5-A6,B5-B6",DS,0730-1630,3,PS1 repair like for like
@@ -46,9 +46,3 @@ Fit up duplex plates for pipeshoes-4"" 4pc, 3"" 2pc"
 41,AE GED,LAL LAWM KIMA,90794,Fitter,Worker,PS2 Permit,E3-E5,DS,0730-1630,37,
 42,AE GED,RAHMAN SAIDUR,82264,Fitter,Worker,PS2 Permit,E3-E5,DS,0730-1630,38,
 43,AE GED,GUSI DAVEN JAKE FAINSAN,66072,Welder,Worker,PS2 Permit,E3-E5,DS,0730-1630,39,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
